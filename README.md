@@ -15,7 +15,7 @@ To run the website
 
 ## Demo
 
-🌐 https://accuknox-assingment.vercel.app/
+🌐 https://accuknoxassignments.netlify.app/
 
 
 ## Features
